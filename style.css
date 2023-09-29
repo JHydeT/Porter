@@ -45,7 +45,7 @@ article>section>p{
   padding: 15px 0;
 }
 
-article section {
+article>section {
   text-align:center;
   width: 100%;
 }

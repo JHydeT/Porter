@@ -33,15 +33,19 @@ article {
   padding: 50px;
 }
 
-.profile {
+#About {
   padding-bottom: 10px;
 }
 
-article>div>p{
+article>div{
+  text-align: center;
+}
+
+article>section>p{
   padding: 15px 0;
 }
 
-article div {
+article section {
   text-align:center;
   width: 100%;
 }
